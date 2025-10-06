@@ -4,16 +4,14 @@
     - [X] Django
     - [X] Будет база данных
 - [X] Диаграммы - должна быть ссылка на drawio, чтобы можно было редактировать
-    - [ ] Структура приложения
+    - [X] Структура приложения
           <br><img height="550" alt="Структура приложения" src="https://raw.githubusercontent.com/ItsArtem/Diplom/refs/heads/main/SiteStructure.png" />
-    - [ ] Варианты использования Use Case
-          <br><img height="300" alt="Use Case" src="https://github.com/user-attachments/assets/82a835c2-cf13-4f37-81e5-607dce887f77" />
-    - [ ] Деятельности Activity
-          <br><img height="400" alt="Activity" src="https://github.com/user-attachments/assets/1c0a4a1c-d43b-4442-a2be-1df603110b9e" />
-- [ ] База данных ссылка на таблицу и скрипт ИЛИ описание ИИ
-    - [ ] Лист гугл таблицы на котором все данные
+    - [X] Варианты использования Use Case
+          <br><img height="500" alt="Use Case" src="https://raw.githubusercontent.com/ItsArtem/Diplom/refs/heads/main/UseCase.png" />
+- [X] База данных ссылка на [таблицу](https://docs.google.com/spreadsheets/d/1vSgG23pdvaB_V0PJi_KWNy0l_v2H8dG-28wagFA5wuk/edit?usp=sharing) и скрипт
+    - [X] Лист гугл таблицы на котором все данные
     - [ ] Скрин ER диаграммы на этом же листе
-    - [ ] Листы с данными для импорта
+    - [X] Листы с данными для импорта
     - [ ] Файл скрипта .sql
 - [ ] Код должен быть в папке
     - [ ] Иконка, логотип и название Их нужно придумать
