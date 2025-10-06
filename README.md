@@ -5,7 +5,7 @@
     - [X] Будет база данных
 - [X] Диаграммы - должна быть ссылка на drawio, чтобы можно было редактировать
     - [ ] Структура приложения
-          <br><img height="400" alt="Структура приложения" src="https://raw.githubusercontent.com/ItsArtem/Diplom/refs/heads/main/SiteStructure.png" />
+          <br><img height="550" alt="Структура приложения" src="https://raw.githubusercontent.com/ItsArtem/Diplom/refs/heads/main/SiteStructure.png" />
     - [ ] Варианты использования Use Case
           <br><img height="300" alt="Use Case" src="https://github.com/user-attachments/assets/82a835c2-cf13-4f37-81e5-607dce887f77" />
     - [ ] Деятельности Activity
