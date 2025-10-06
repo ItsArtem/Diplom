@@ -8,8 +8,8 @@
           <br><img height="550" alt="Структура приложения" src="https://raw.githubusercontent.com/ItsArtem/Diplom/refs/heads/main/SiteStructure.png" />
     - [X] Варианты использования Use Case
           <br><img height="500" alt="Use Case" src="https://raw.githubusercontent.com/ItsArtem/Diplom/refs/heads/main/UseCase.png" />
-- [X] База данных ссылка на [таблицу](https://docs.google.com/spreadsheets/d/1vSgG23pdvaB_V0PJi_KWNy0l_v2H8dG-28wagFA5wuk/edit?usp=sharing) и скрипт
-    - [X] Лист гугл таблицы на котором все данные
+- [ ] База данных ссылка на [таблицу](https://docs.google.com/spreadsheets/d/1vSgG23pdvaB_V0PJi_KWNy0l_v2H8dG-28wagFA5wuk/edit?usp=sharing) и скрипт
+    - [ ] Лист гугл таблицы на котором все данные
     - [ ] Скрин ER диаграммы на этом же листе
     - [X] Листы с данными для импорта
     - [ ] Файл скрипта .sql
