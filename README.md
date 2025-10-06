@@ -3,7 +3,7 @@
     - [X] Для себя и будет прибыль
     - [X] Django
     - [X] Будет база данных
-- [X] Диаграммы - должна быть ссылка на drawio, чтобы можно было редактировать
+- [X] [Диаграммы](https://drive.google.com/drive/folders/1M-VhBfqammAHF7qFNiYkPlk7i3LlFT3m?usp=sharing)
     - [X] Структура приложения
           <br><img height="550" alt="Структура приложения" src="https://raw.githubusercontent.com/ItsArtem/Diplom/refs/heads/main/SiteStructure.png" />
     - [X] Варианты использования Use Case
